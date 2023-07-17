@@ -1,0 +1,195 @@
+<<<<<<< HEAD
+body {
+	font-family: Times New Roman;
+  margin: 0;
+}
+.header {
+  padding: 100px; /* some padding */
+  text-align: center; /* center the text */
+  background-image:url("https://wallpapers.com/images/hd/black-galaxy-1920-x-1080-background-ac8b0wc82bs93n69.jpg"); /* green background */
+  color: white; /* white text color */
+}
+
+/* Increase the font size of the <h1> element */
+.header h1 {
+  font-size: 50px;
+}/* Style the top navigation bar */
+.navbar {
+  overflow: hidden; /* Hide overflow */
+  background-color: #333; /* Dark background color */
+}
+.header h2{
+	font-size:50px;
+	text-decoration:underline;
+}
+
+
+/* Style the navigation bar links */
+.navbar a {
+  float: left; /* Make sure that the links stay side-by-side */
+  display: block; /* Change the display to block, for responsive reasons (see below) */
+  color: white; /* White text color */
+  text-align: Center; /* Center the text */
+  padding: 15px 15px; /* Add some padding */
+  text-decoration: none; /* Remove underline */
+}
+
+
+
+/* Change color on hover/mouse-over */
+.navbar a:hover {
+  background-color: #ddd; /* Grey background color */
+  color: black; /* Black text color */
+}
+
+.side{
+	float:right;
+	padding:10px;
+	width:1480px;
+	
+	background-color:#92919D;
+}
+.side2{
+	float:right;
+	padding:10px;
+	width:1470px;
+	
+	background-color:#92919D;
+}
+.side3{
+	float:right;
+	padding:10px;
+	width:1460px;
+	
+	background-color:#92919D;
+}
+.side4{
+	float:right;
+	padding:10px;
+	width:1450px;
+	
+	background-color:#92919D;
+}	
+.side5{
+	float:right;
+	padding:10px;
+	width:1440px;
+	
+	background-color:#92919D;
+}	
+.side6{
+	float:right;
+	padding:10px;
+	width:1430px;
+	
+	background-color:#92919D;
+}	
+.side7{
+	float:right;
+	padding:10px;
+	width:1420px;
+	
+	background-color:#92919D;
+}	
+.side8{
+	float:right;
+	padding:10px;
+	width:1410px;
+	
+	background-color:#92919D;
+}	
+.main {
+	float:right;
+	font-family:Times New Roman;
+	color:black;
+	text-align:left;
+	font-size:15px;
+	padding:10px;	
+	width:930px;
+	
+	
+	background:#92919D;
+}
+.main1{
+	float:right;
+	font-family:Times New Roman;
+	color:black;
+	text-align:left;
+	font-size:15px;
+	padding:10px;	
+	width:920px;
+
+	background:#92919D;
+}
+.main2{
+	float:right;
+	font-family:Times New Roman;
+	color:black;
+	text-align:left;
+	font-size:15px;
+	padding:10px;	
+	width:910px;
+
+	background:#92919D;
+}
+.main3{
+	float:right;
+	font-family:Times New Roman;
+	color:black;
+	text-align:left;
+	font-size:15px;
+	padding:10px;	
+	width:900px;
+
+	background:#92919D;
+}
+.main4{
+	float:right;
+	font-family:Times New Roman;
+	color:black;
+	text-align:left;
+	font-size:15px;
+	padding:10px;	
+	width:890px;
+
+	background:#92919D;
+}
+.main5{
+	float:right;
+	font-family:Times New Roman;
+	color:black;
+	text-align:left;
+	font-size:15px;
+	padding:10px;	
+	width:880px;
+
+	background:#92919D;
+}
+.main6{
+	float:right;
+	font-family:Times New Roman;
+	color:black;
+	text-align:left;
+	font-size:15px;
+	padding:10px;	
+	width:870px;
+
+	background:#92919D;
+}
+.main7{
+	float:right;
+	font-family:Times New Roman;
+	color:black;
+	text-align:left;
+	font-size:15px;
+	padding:10px;	
+	width:860px;
+
+	background:#92919D;
+}
+	
+
+
+
+
+>>>>>>> fe6696e218ec14cdb46fa7076cd821b38078b17c
